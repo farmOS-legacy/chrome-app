@@ -1,0 +1,13 @@
+{
+  "name": "farmOS",
+  "description": "",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["js/background.js"]
+    }
+  },
+  "icons": { "16": "img/farmOS-16.png", "128": "img/farmOS-128.png" }
+}
+
